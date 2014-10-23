@@ -48,6 +48,9 @@ var getPost = function() {
 
 #### References  
 
+**Meteorpedia on six ways to provide REST APIs**  
+http://www.meteorpedia.com/read/REST_API
+
 **Meteor REST Collection**  
 http://stackoverflow.com/questions/13699126/meteor-rest-collection-api-and-auth  
 
